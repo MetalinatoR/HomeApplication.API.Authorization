@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = HomeApplication.API.Authorization
+build_property.ProjectDir = C:\HomeApplication.API.Authorization\src\HomeApplication.API.Authorization\HomeApplication.API.Authorization\
